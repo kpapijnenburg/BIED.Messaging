@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BIED.Messaging.Config
+﻿namespace BIED.Messaging.Config
 {
     public class RabbitMqConfig
     {
